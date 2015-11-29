@@ -4,73 +4,73 @@
 <table>
     <tbody>
         <tr>
-            <th>A</th>
+            <td>A</td>
             <td>．━</td>
-            <th>B</th>
+            <td>B</td>
             <td>━ ．．．</td>
-            <th>C</th>
+            <td>C</td>
             <td>━ ．━ ．</td>
-            <th>D</th>
+            <td>D</td>
             <td>━ ．．</td>
         </tr>
         <tr>
-            <th>E</th>
+            <td>E</td>
             <td>．</td>
-            <th>F</th>
+            <td>F</td>
             <td>．．━ ．</td>
-            <th>G</th>
+            <td>G</td>
             <td>━ ━ ．</td>
-            <th>H</th>
+            <td>H</td>
             <td>．．．．</td>
         </tr>
         <tr>
-            <th>I</th>
+            <td>I</td>
             <td>．．</td>
-            <th>J</th>
+            <td>J</td>
             <td>．━ ━ ━</td>
-            <th>K</th>
+            <td>K</td>
             <td>━ ．━</td>
-            <th>L</th>
+            <td>L</td>
             <td>．━ ．．</td>
         </tr>
         <tr>
-            <th>M</th>
+            <td>M</td>
             <td>━ ━</td>
-            <th>N</th>
+            <td>N</td>
             <td>━ ．</td>
-            <th>O</th>
+            <td>O</td>
             <td>━ ━ ━</td>
-            <th>P</th>
+            <td>P</td>
             <td>．━ ━ ．</td>
         </tr>
         <tr>
-            <th>Q</th>
+            <td>Q</td>
             <td>━ ━ ．━</td>
-            <th>R</th>
+            <td>R</td>
             <td>．━ ．</td>
-            <th>S</th>
+            <td>S</td>
             <td>．．．</td>
-            <th>T</th>
+            <td>T</td>
             <td>━</td>
         </tr>
         <tr>
-            <th>U</th>
+            <td>U</td>
             <td>．．━</td>
-            <th>V</th>
+            <td>V</td>
             <td>．．．━</td>
-            <th>W</th>
+            <td>W</td>
             <td>．━ ━</td>
-            <th>X</th>
+            <td>X</td>
             <td>━ ．．━</td>
         </tr>
         <tr>
-            <th>Y</th>
+            <td>Y</td>
             <td>━ ．━ ━</td>
-            <th>Z</th>
+            <td>Z</td>
             <td>━ ━ ．．</td>
-            <th>　</th>
             <td>　</td>
-            <th>　</th>
+            <td>　</td>
+            <td>　</td>
             <td>　</td>
         </tr>
     </tbody>
@@ -79,31 +79,31 @@
 <table>
     <tbody>
         <tr>
-            <th>0</th>
+            <td>0</td>
             <td>━ ━ ━ ━ ━</td>
-            <th>1</th>
+            <td>1</td>
             <td>．━ ━ ━ ━</td>
-            <th>2</th>
+            <td>2</td>
             <td>．．━ ━ ━</td>
-            <th>3</th>
+            <td>3</td>
             <td>．．．━ ━</td></tr>
         <tr>
-            <th>4</th>
+            <td>4</td>
             <td>．．．．━</td>
-            <th>5</th>
+            <td>5</td>
             <td>．．．．．</td>
-            <th>6</th>
+            <td>6</td>
             <td>━ ．．．．</td>
-            <th>7</th>
+            <td>7</td>
             <td>━ ━ ．．．</td></tr>
         <tr>
-            <th>8</th>
+            <td>8</td>
             <td>━ ━ ━ ．．</td>
-            <th>9</th>
+            <td>9</td>
             <td>━ ━ ━ ━ ．</td>
-            <th>　</th>
             <td>　</td>
-            <th>　</th>
+            <td>　</td>
+            <td>　</td>
             <td>　</td>
         </tr>
     </tbody>
@@ -112,49 +112,49 @@
 <table>
     <tbody>
         <tr>
-            <th title="句号">.</th>
+            <td title="句号">.</td>
             <td title="句号">．━ ．━ ．━</td>
-            <th title="冒号">:</th>
+            <td title="冒号">:</td>
             <td title="冒号">━ ━ ━ ．．．</td>
-            <th title="逗号">,</th>
+            <td title="逗号">,</td>
             <td title="逗号">━ ━ ．．━ ━</td>
-            <th title="分号">;</th>
+            <td title="分号">;</td>
             <td title="分号">━ ．━ ．━ ．</td></tr>
         <tr>
-            <th title="问号">?</th>
+            <td title="问号">?</td>
             <td title="问号">．．━ ━ ．．</td>
-            <th title="等号">=</th>
+            <td title="等号">=</td>
             <td title="等号">━ ．．．━</td>
-            <th title="省略符">'</th>
+            <td title="省略符">'</td>
             <td title="省略符">．━ ━ ━ ━ ．</td>
-            <th title="斜线">/</th>
+            <td title="斜线">/</td>
             <td title="斜线">━ ．．━ ．</td></tr>
         <tr>
-            <th title="叹号">!</th>
+            <td title="叹号">!</td>
             <td title="叹号">━ ．━ ．━ ━</td>
-            <th title="连字号">━ </th>
+            <td title="连字号">━ </td>
             <td title="连字号">━ ．．．．━</td>
-            <th title="下划线">_</th>
+            <td title="下划线">_</td>
             <td title="下划线">．．━ ━ ．━</td>
-            <th title="双引号">"</th>
+            <td title="双引号">"</td>
             <td title="双引号">．━ ．．━ ．</td></tr>
         <tr>
-            <th title="前括号">(</th>
+            <td title="前括号">(</td>
             <td title="前括号">━ ．━ ━ ．</td>
-            <th title="后括号">)</th>
+            <td title="后括号">)</td>
             <td title="后括号">━ ．━ ━ ．━</td>
-            <th title="美元">$</th>
+            <td title="美元">$</td>
             <td title="美元">．．．━ ．．━</td>
-            <th title="">&amp;</th>
+            <td title="">&amp;</td>
             <td title="">． ．．．</td></tr>
         <tr>
-            <th title="">@</th>
+            <td title="">@</td>
             <td title="">．━ ━ ．━ ．</td>
-            <th>　</th>
             <td>　</td>
-            <th>　</th>
             <td>　</td>
-            <th>　</th>
+            <td>　</td>
+            <td>　</td>
+            <td>　</td>
             <td>　</td>
         </tr>
     </tbody>
