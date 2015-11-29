@@ -1,6 +1,8 @@
 # morse-code
 摩尔斯密码
 
+[Click me!](http://nimojs.github.io/morse-code/)
+
 <table>
     <tbody>
         <tr>
